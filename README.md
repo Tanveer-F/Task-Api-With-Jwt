@@ -13,7 +13,7 @@ It provides a set of endpoints to manage tasks, users, and authentication using 
 - Django
 - Django REST Framework (DRF)
 - JWT (JSON Web Token) for authentication
-- PostgreSQL (or any other database of your choice)
+- SQL
 
 ## Installation
 1. Clone the repository:
